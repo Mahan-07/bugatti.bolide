@@ -14,5 +14,5 @@ basic Language : Farsi(Persian).
 + sticky header
 + Bootstrap slider and table list.
 + link address to Bugatti homepage.
-> ![ALERT]
+> ![NOTE]
 > This is still incomplete!
